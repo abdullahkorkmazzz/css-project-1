@@ -1,0 +1,15 @@
+a {
+    padding: 2px;
+}
+
+.text-cyan {
+    color: cyan;
+}
+
+.center {
+    text-align: center;
+}
+
+.sans-serif {
+    font-family: sans-serif;
+}
