@@ -1,0 +1,88 @@
+
+/****************************** colors ****************************/
+.blue {
+    color: blue;
+}
+
+.cyan {
+    color: cyan;
+}
+
+.chartreuse {
+    color: chartreuse;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.brown {
+    color: brown;
+}
+
+.purple {
+    color: purple;
+}
+
+.deeppink {
+    color: deeppink;
+}
+
+/****************************** margin ****************************/
+.margin-top-30 {
+    margin-top: 30px;
+}
+
+.margin-top-60 {
+    margin-top: 60px;
+}
+
+.margin-top-90 {
+    margin-top: 90px;
+}
+
+.margin-top-120 {
+    margin-top: 120px;
+}
+
+
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+
+.margin-0-auto {
+    margin: 0 auto;
+}
+
+
+/****************************** font family ****************************/
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
+
+/****************************** display ****************************/
+
+.display-table {
+    display: table;
+}
+
+
+/****************************** width ****************************/
+
+.width-350 {
+    width: 350px;
+}
+
+
+/****************************** text align ****************************/
+
+.center {
+    text-align: center;
+}
+
